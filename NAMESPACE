@@ -1,0 +1,2 @@
+export(multinb.fit,summary.multinbmod,multinbmod)
+S3method(summary, multinbmod)
